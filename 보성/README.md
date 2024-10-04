@@ -8,7 +8,7 @@
 
 ## 2. 팀원 및 역할 분담
 - **최보성**: 운동 영상에 대한 리뷰를 관리할 수 있는 Table 설계
-- **이윤준**: 메인페이지에 보여 질 영상정보를 조회할 수 있는 Table 설계
+- **이윤준**: 메인페이지에 보여질 영상정보를 조회할 수 있는 Table 설계
 - **김성현**: 회원을 관리할 수 있는 Table 설계, ER Diagram 작성
 
 ## 3. 진행 과정
@@ -21,3 +21,8 @@
 ![ER Diagram](./img/ER_Diagram.JPG)
 
 ## 4. 느낀 점
+- 같은 schema 내에 다른 Table 들에 대해서 서로의 관계를 통해 다른 Table에 영향을 줄 수 있다는 것을 알게 되었습니다.
+- video Table과 user Table의 다대다 관계를 위해 review Table에 외래키를 사용함으로서 관계를 표현하는 법을 배우게 되었습니다.
+- git을 활용하며 서로 다른 Table을 만든 후 합치는 과정에서 conflict가 나지 않도록 노력하며 git에 대해 다시 한번 알게 되었습니다.
+- mySQL에서 ER Diagram을 작성하면서 ER Diagram에 대한 이해와 작성법을 알 수 있었습니다.
+- review Table에 INSERT문을 실행시킬 때 video Table의 video_id에 오타가 있어 INSERT가 안 되었던 문제가 있었는데 이를 디버깅하며 서로 다른 테이블에서 외래키를 사용할 때 관계가 중요하다는 것을 알게 되었습니다.
