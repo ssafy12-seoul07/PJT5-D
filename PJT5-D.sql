@@ -19,7 +19,7 @@ VALUES
 ('50WCSpZtdmA', 'Shim EuDdeum 10 Minute Morning Stretch Everydayㅣ2023 Renewal', '전신', '힘으뜸', 'https://www.youtube.com/watch?v=50WCSpZtdmA'),
 ('Kk7TQGqQ3nA', '하루 두 번🧘🏻‍♀️반드시 해야하는 20분 전신순환 스트레칭 Ep.08 - 피로회복, 디톡스, 심신안정, 혈액순환, 라인정리 효과 (Whole body stretch)', '전신', '빵느', 'https://www.youtube.com/watch?v=Kk7TQGqQ3nA'),
 ('MTU4iCDntjs', '4 Minute OFFICE STRETCHING(full body)', '전신', 'Allblanc TV', 'https://www.youtube.com/watch?v=MTU4iCDntjs'),
-('D3yExRi7EME&t=791s', '뭉친 어깨, 뻣뻣한 골반 풀어주는 요가 | 앉아서 하는 요가 스트레칭 | 어깨 근육 풀기, 골반풀기', '상체', 'Mindful Yoga with Eileen', 'https://www.youtube.com/watch?v=D3yExRi7EME&t=791s'),
+('D3yExRi7EME', '뭉친 어깨, 뻣뻣한 골반 풀어주는 요가 | 앉아서 하는 요가 스트레칭 | 어깨 근육 풀기, 골반풀기', '상체', 'Mindful Yoga with Eileen', 'https://www.youtube.com/watch?v=D3yExRi7EME&t=791s'),
 ('02K-k6daPb4', '15 MIN Fat Burning Cardio - 서서하는 유산소 - 다이어트 운동', '전신', '빅씨스 Bigsis', 'https://www.youtube.com/watch?v=02K-k6daPb4'),
 ('gMaB-fG4u4g', '전신 다이어트 최고의 운동 [칼소폭 찐 핵핵매운맛]', '전신', 'ThankyouBUBU', 'https://www.youtube.com/embed/gMaB-fG4u4g'),
 ('swRNeYw1JkY', '하루 15분! 전신 칼로리 불태우는 다이어트 운동', '전신', 'ThankyouBUBU', 'https://www.youtube.com/embed/swRNeYw1JkY'),
@@ -89,3 +89,8 @@ VALUES
 ('leecs', 'D3yExRi7EME', '어깨와 골반 풀기에 딱!', '뭉친 어깨와 골반이 이 영상으로 많이 풀렸어요. 요가 초보자도 쉽게 따라 할 수 있어서 좋네요.'),
 ('parkms', 'tzN6ypk6Sps', '하체 운동 따라 하기 쉽고 좋아요', '하체운동 중요하다는 얘기를 많이 들어서 따라해봤는데, 이 영상이 간단하면서도 효과적이에요. 짧은 시간에 하체를 탄탄하게!'),
 ('choijw', 'PjGcOP-TQPE', '복부운동 진짜 힘들어요!', '복부운동 영상은 짧지만 정말 강도 높네요. 효과가 바로 느껴져서 꾸준히 하려고요. 5분만에 땀이 나요!');
+
+SELECT * FROM review;
+
+
+
