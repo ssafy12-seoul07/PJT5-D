@@ -17,7 +17,7 @@
 3. NOT NULL로 설계된 title, writer, content를 작성하여 Table에 넣을 수 있는 INSERT문을 만들어 5개의 예시를 포함한 Table을 구성함
 4. 각자 만든 Table을 하나로 합치는 과정에서 review Table에 user_id, video_id를 추가하여 각 review를 어떤 user가 작성하였고 어떤 video에 작성하였는지 관계를 파악할 수 있도록 함
 5. 설계된 DB 모델링에 맞게 ER Diagram을 작성함
-- ER Diagram
+- ER Diagram <br>
 ![ER Diagram](./img/ER_Diagram.JPG)
 
 ## 4. 느낀 점
